@@ -1339,8 +1339,8 @@ a {
 }
 .cid-uxL9mJlyDl {
   padding-top: 105px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+  padding-bottom: 15px;
+  background-color: #000000;
 }
 .cid-uxL9mJlyDl .mbr-section {
   text-align: center;
@@ -1401,6 +1401,9 @@ a {
 .cid-uxLhI6IlQ3 .mbr-text,
 .cid-uxLhI6IlQ3 .mbr-section-btn {
   text-align: left;
+}
+.cid-uxLhI6IlQ3 .mbr-section-title {
+  color: #ffffff;
 }
 .cid-uxLi7mvuNG {
   padding-top: 6rem;

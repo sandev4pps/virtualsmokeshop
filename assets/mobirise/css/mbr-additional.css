@@ -778,14 +778,8 @@ a {
     padding-right: 16px;
   }
 }
-.cid-uyvhFbzdDk {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-uyvhFbzdDk nav.navbar {
-  position: fixed;
+.cid-uyvhFbzdDk .navbar-dropdown {
+  position: relative !important;
 }
 .cid-uyvhFbzdDk .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1072,7 +1066,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #fff0b0;
+  background-color: #ffffff;
 }
 .cid-uyvhFbzdDk button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1114,7 +1108,6 @@ a {
 }
 .cid-uyvhFbzdDk .navbar-dropdown {
   padding: 0 1rem;
-  position: fixed;
 }
 .cid-uyvhFbzdDk a.nav-link {
   display: flex;
@@ -1741,14 +1734,8 @@ a {
   background-color: #000000;
   overflow: hidden;
 }
-.cid-uyvhFbzdDk {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-uyvhFbzdDk nav.navbar {
-  position: fixed;
+.cid-uyvhFbzdDk .navbar-dropdown {
+  position: relative !important;
 }
 .cid-uyvhFbzdDk .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -2035,7 +2022,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #fff0b0;
+  background-color: #ffffff;
 }
 .cid-uyvhFbzdDk button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2077,7 +2064,6 @@ a {
 }
 .cid-uyvhFbzdDk .navbar-dropdown {
   padding: 0 1rem;
-  position: fixed;
 }
 .cid-uyvhFbzdDk a.nav-link {
   display: flex;
@@ -2112,14 +2098,8 @@ a {
 .cid-uyvhFbzdDk .floatright {
   margin-right: auto !important;
 }
-.cid-uyvhFbzdDk {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-uyvhFbzdDk nav.navbar {
-  position: fixed;
+.cid-uyvhFbzdDk .navbar-dropdown {
+  position: relative !important;
 }
 .cid-uyvhFbzdDk .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -2406,7 +2386,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #fff0b0;
+  background-color: #ffffff;
 }
 .cid-uyvhFbzdDk button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2448,7 +2428,6 @@ a {
 }
 .cid-uyvhFbzdDk .navbar-dropdown {
   padding: 0 1rem;
-  position: fixed;
 }
 .cid-uyvhFbzdDk a.nav-link {
   display: flex;

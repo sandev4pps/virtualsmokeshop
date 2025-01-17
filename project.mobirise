@@ -70,7 +70,7 @@
       "underlineLink": false,
       "text": "Sou maior de 18 anos <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/mgpbylzs5p3y.webp",
     "mbrsiteDomain": "virtualsmokeshop",
     "publishEditFolder": false,
     "witsec-search": true,

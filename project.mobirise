@@ -57,7 +57,7 @@
     "versionPublish": "5.9.24",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "usedWebp": false,
     "robotsSwitcher": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
